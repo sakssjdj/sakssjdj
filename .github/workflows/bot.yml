@@ -3,7 +3,7 @@ name: Run sfkbot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"  # كل 10 دقائق
+    -كل 10 دقائق
 
 jobs:
   run-bot:
